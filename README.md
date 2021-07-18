@@ -4,7 +4,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/munteanugabriel25/Python-Tk-BlackJack.git">
-    <img src="Icons/iconReadMe.png" alt="Logo" width="80" height="80">
+<!--     <img src="Icons/iconReadMe.png" alt="Logo" width="80" height="80"> -->
   </a>
 
   <h3 align="center">BlackJack Game</h3>
